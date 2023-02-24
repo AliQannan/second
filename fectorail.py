@@ -1,4 +1,4 @@
-n=float(input("Enter you number please : ")
+n=float(input("Enter you number please : "))
 def fectorail (n):
 	if n ==1:
 		return 1
